@@ -1,5 +1,5 @@
 # QueenOfRevision
- ###An app I made in Python to work on my coding skills and to store acronyms and their meanings while revising for my DevNetSkills final exam
+### An app I made in Python to work on my coding skills and to store acronyms and their meanings while revising for my DevNetSkills final exam
 Made a fairly long time ago after knowing I needed to work on my Python but was stuck in tutorial hell. 
 Currently can only get it to work with absolute paths which have been removed for privacy
 
